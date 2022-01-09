@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1 align="center">SupImDos</h1>
+<p align="center">🐍 Python developer from 📍 Perth, WA</p>
 
-<!--
-**SupImDos/SupImDos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python3
+@dataclass
+class SupImDos:
+    name: str = "Hayden Richards"
+    username: str = "SupImDos"
+    age: int = 24
+    location: str = "Perth, WA"
 
-Here are some ideas to get you started:
+if __name__ == "__main__":
+    me = SupImDos()
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Languages
+* Python
+
+## 🌱 Learning
+* Rust
