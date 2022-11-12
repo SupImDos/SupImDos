@@ -18,3 +18,4 @@ if __name__ == "__main__":
 
 ## 🌱 Learning
 * Rust
+* HTML / CSS / JavaScript / TypeScript
