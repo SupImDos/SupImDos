@@ -6,7 +6,7 @@
 class SupImDos:
     name: str = "Hayden Richards"
     username: str = "SupImDos"
-    age: int = 24
+    age: int = 25
     location: str = "Perth, WA"
 
 if __name__ == "__main__":
